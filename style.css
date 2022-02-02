@@ -77,11 +77,11 @@ aside img{
     width: 100%;
 }
 
-nav p{
+nav a{
     margin: 15px;
     color: white;
     text-transform: uppercase;
-
+    text-decoration: none;
 }
 footer{
     height: 25px;
